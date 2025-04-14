@@ -29,8 +29,7 @@ C
 ### **Funkcionality**
 
 - Implementovat algoritmus pro efektivní generování Mandelbrotovy množiny pomocí knihoven NumPy a Numba  
-- Implementovat algoritmus pro efektivní generování Juliovy množiny (pro 
-f
+- Implementovat algoritmus pro efektivní generování Juliovy množiny (pro f
 (
 z
 )
