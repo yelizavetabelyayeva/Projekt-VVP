@@ -29,8 +29,8 @@ C
 
 ### **Funkcionality**
 
-Implementovat algoritmus pro efektivní generování Mandelbrotovy množiny pomocí knihoven NumPy a Numba
-Implementovat algoritmus pro efektivní generování Juliovy množiny (pro 
+- Implementovat algoritmus pro efektivní generování Mandelbrotovy množiny pomocí knihoven NumPy a Numba
+- Implementovat algoritmus pro efektivní generování Juliovy množiny (pro 
 f
 (
 z
@@ -45,10 +45,9 @@ c
 ∈
 C
 ) pomocí knihoven NumPy a Numba
-Vytvořit funkci pro vizualizaci fraktálů pomocí knihovny Matplotlib, která zobrazuje fraktály pomocí barevného mapování podle iterací potřebných k dosažení určitého prahu
-Implementovat interaktivní prvky vizualizace, které umožňují uživateli (v případě implementace skrze Pygame lze nahradit ovladáním klávesnicí a myší):
-přiblížit nebo oddálit fraktál
-měnit barevné schéma vykreslení počtu iterací do divergence
-přizpůsobovat parametry pro generování fraktálů (např. počet iterací, 
-c
-) 
+- Vytvořit funkci pro vizualizaci fraktálů pomocí knihovny Matplotlib, která zobrazuje fraktály pomocí barevného mapování podle iterací potřebných k dosažení určitého prahu
+- Implementovat interaktivní prvky vizualizace, které umožňují uživateli (v případě implementace skrze Pygame lze nahradit ovladáním klávesnicí a myší):
+--přiblížit nebo oddálit fraktál
+--měnit barevné schéma vykreslení počtu iterací do divergence
+--přizpůsobovat parametry pro generování fraktálů (např. počet iterací, 
+c) 
