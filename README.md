@@ -2,7 +2,8 @@
 
 ### **Textový popis**
 
-Tento projekt se zaměřuje na vizualizaci fraktálů. Cílem je implementovat algoritmy pro efektivní generování známých fraktálů, jako jsou Mandelbrotova a Juliova množina (pro 
+Tento projekt se zaměřuje na vizualizaci fraktálů. Cílem je implementovat algoritmy pro efektivní generování známých fraktálů, jako jsou Mandelbrotova a Juliova množina 
+(pro 
 f
 (
 z
@@ -37,8 +38,7 @@ z
 z
 2
 +
-c
-,
+c,
 c
 ∈
 C
