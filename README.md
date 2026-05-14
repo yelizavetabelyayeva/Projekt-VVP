@@ -162,10 +162,12 @@ s matematickými simulacemi a vizualizacemi.
 # Informace o projektu
 
 Předmět: Vědecké výpočty v Pythonu (VVP)
+
 Akademický rok: 2025/2026
 
 ---
 # Autor
 
 Jméno: Belyayeva Yelizaveta
+
 Login: BEL0178
