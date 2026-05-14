@@ -32,7 +32,6 @@ Projekt využívá následující knihovny:
 - NumPy
 - Matplotlib
 - Numba
-- ipywidgets
 
 Knihovna NumPy slouží pro práci s numerickými poli,
 Matplotlib pro vykreslování grafiky,
